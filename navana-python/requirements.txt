@@ -1,0 +1,8 @@
+websockets
+wave
+argparse
+asyncio
+certifi
+sounddevice
+numpy
+requests
